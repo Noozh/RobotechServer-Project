@@ -5,6 +5,9 @@ The whole files and docs to make a DIY Raspberry pi server which manages your ma
 
 
 --------------------------------------------------------------------------------------------------------------------------
+Steps to mount a webserver on your laptot in order to make test
+
+
 sudo apt-get update
 
 +++ To install webserver +++
